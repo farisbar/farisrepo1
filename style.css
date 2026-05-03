@@ -1,0 +1,31 @@
+/* Element selector */
+body {
+    background-image: url('background.JPG')  ;
+    
+    background-size: cover;
+    /*background-repeat: repeat;
+    font-size: 18px;*/ 
+}
+
+/* Header styling */
+h1 {
+    color: rgb(234, 234, 252);
+}
+h2 {
+    color: rgb(234, 234, 239);
+}
+h4 {
+    color: rgb(234, 234, 239);
+}
+
+/* Table styling  */
+table {
+    background-color: rgb(144, 56, 56);
+    width: 50%;
+}
+
+/* Image styling 
+img {
+    width: 350px;
+    height: auto;
+}*/
